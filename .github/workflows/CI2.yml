@@ -17,7 +17,7 @@ jobs:
         java-version: '11'
 
     - name: Build Main
-      run: javac Main.java
+      run: javac Main.class
 
     - name: Run Main
       run: java Main
