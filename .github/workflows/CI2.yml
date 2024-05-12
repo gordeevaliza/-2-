@@ -19,4 +19,4 @@ jobs:
         distribution: adopt
     - name: Компиляция и тестирование
       run: |
-        javac *.java
+        javac Main.class
