@@ -27,10 +27,11 @@ jobs:
         python -m pip install --upgrade pip
         
     - name: Run tests
-      run: python tests.py numbers.txt
+      run: python tests/test_script.py numbers.txt
       
     - name: Upload test results
       uses: actions/upload-artifact@v3
       with:
         name: test-results
         path: test-results/
+
