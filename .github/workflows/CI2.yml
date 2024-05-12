@@ -18,4 +18,4 @@ jobs:
         distribution: 'adopt'
     - name: Run tests
       run: |
-        javac Main.class
+        javac *.java
