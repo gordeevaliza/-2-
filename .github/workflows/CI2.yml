@@ -23,7 +23,7 @@ jobs:
         distribution: 'adopt'
 
     - name: Setup Maven
-      uses: mvn/maven-setup-action@v3.0.1
+      uses: stCarolas/setup-maven@v4.5
 
     - name: Run tests and build
       run: |
