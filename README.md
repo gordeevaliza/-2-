@@ -23,3 +23,4 @@
 
 ## График зависимости для файла `TrueTime.java`
 
+![alt text](https://raw.githubusercontent.com/username/projectname/commit/img.png)
