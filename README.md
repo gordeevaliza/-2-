@@ -23,4 +23,4 @@
 
 ## График зависимости для файла `TrueTime.java`
 
-![alt text](https://github.com/)
+![alt text](https://github.com/gordeevaliza/-2-/blob/main/Снимок%20экрана%202024-05-13%20в%2000.02.54.png)
